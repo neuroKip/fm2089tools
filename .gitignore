@@ -1,0 +1,5 @@
+NitroPacker.exe
+/temp
+/text
+/__pycache__
+*.nds
